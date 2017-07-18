@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488961910 source:f:\data stricture\stack\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

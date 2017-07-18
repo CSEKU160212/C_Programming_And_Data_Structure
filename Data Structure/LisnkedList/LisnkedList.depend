@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488949846 source:f:\data stricture\lisnkedlist\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

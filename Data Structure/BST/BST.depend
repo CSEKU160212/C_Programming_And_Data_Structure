@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489572075 source:f:\data stricture\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+
